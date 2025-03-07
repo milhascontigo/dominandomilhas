@@ -4,17 +4,6 @@ body {
    background-repeat: no-repeat;
    background-size: cover;
 }
-
-/* Hero Section */
-.hero {
-    text-align: center;
-    padding: 100px 20px;
-}
-
-.hero h1, .hero h2 {
-    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
-}
-
 .botao-compra {
     display: inline-block;
     padding: 15px 30px;
