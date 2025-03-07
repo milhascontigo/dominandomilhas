@@ -1,7 +1,8 @@
 body {
     body {
-        background: url('img/fundo.jpg') no-repeat center center fixed;
-        background-size: cover;
+        background: url(https://blog.hurb.com/wp-content/uploads/2023/08/aviao-viagem-longa-singapura-nova-iorque.jpg); 
+background-position: center;
+background-repeat: no-repeat; 
     }
     
 }
